@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18074139313",
+    "project_id": "uberfortrucks-4fe0c",
+    "storage_bucket": "uberfortrucks-4fe0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18074139313:android:65bb7376431c559974c090",
+        "android_client_info": {
+          "package_name": "com.example.ubertruck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAip0Knk7fa9sIVXQhFDEfo7nGRHL4o5-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
